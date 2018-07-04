@@ -1,17 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-toastyplugin"
+    id="cordova-plugin-toastyplugin"
     version="0.0.1">
 
   <name>ToastyPlugin</name>
 
-  <description>An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.</description>
+  <description>
+    A plugin that allows users to display
+    simple Toast messages at the bottom of the screen.
+  </description>
 
   <author>Roger Fraser</author>
 
   <license>MIT</license>
 
-  <keywords>cordova,android,toast,message,alert</keywords>
+  <keywords>android,toast,message,alert</keywords>
 
   <repo>https://github.com/RogerFraserZa/ToastyTest1.git</repo>
 
