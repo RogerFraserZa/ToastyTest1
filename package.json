@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RogerFraserZa/ToastyPlugin.git"
+    "url": "git+https://github.com/RogerFraserZa/ToastyTest1.git"
   },
   "keywords": [
     "Toast",
@@ -29,7 +29,7 @@
   "author": "Roger Fraser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RogerFraserZa/ToastyPlugin/issues"
+    "url": "https://github.com/RogerFraserZa/ToastyTest1/issues"
   },
-  "homepage": "https://github.com/RogerFraserZa/ToastyPlugin/"
+  "homepage": "https://github.com/RogerFraserZa/ToastyTest1/"
 }
