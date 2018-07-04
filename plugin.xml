@@ -15,9 +15,10 @@
     <engine name="cordova" version=">=3.0.0"/>
   </engines>
 
-  <js-module src="www/toastyplugin.js" name="toastyPlugin">
+  <js-module src="www/toastyplugins.js" name="toastyPlugin">
     <clobbers target="window.plugins.toastyPlugin" />
   </js-module>
+
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="ToastyPlugin">
@@ -25,6 +26,6 @@
       </feature>
     </config-file>
 
-    <source-file src="src/android/ToastyPlugin.java" target-dir="src/com/livemonitoring/cordova/plugin" />
+    <source-file src="src/android/ToastyPlugin.java" target-dir="src/com/livemonitoring/cordova/plugins" />
   </platform>
 </plugin>
